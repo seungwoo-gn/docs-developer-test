@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_developer=self.webpackChunkdocs_developer||[]).push([[352],{4505:e=>{e.exports=JSON.parse('{"title":"Wallet","slug":"/category/wallet","permalink":"/docs/category/wallet","navigation":{"previous":{"title":"Getting Started","permalink":"/docs/sdk/getting-started"},"next":{"title":"Dapth2","permalink":"/docs/category/dapth2"}}}')}}]);
