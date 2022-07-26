@@ -10,7 +10,7 @@ jobs:
           node-version: 16.14.2
           cache: npm
       - uses: actions/checkout@master
-      - uses: redkubes/docusaurus-deploy-action@v1
+      - uses: redkubes/docusaurus-deploy-action@v1.2
         with:
           source-folder: website
           git-user: $SOME_USERNAME
