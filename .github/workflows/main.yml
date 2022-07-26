@@ -12,6 +12,6 @@ jobs:
       - uses: redkubes/docusaurus-deploy-action@v1.2
         with:
           source-folder: website
-          git-user: $GITHUB_ACTOR
+          git-user: daeho-gn
           git-password: ${{ secrets.TOKEN }}
           deployment-branch: gh-pages
