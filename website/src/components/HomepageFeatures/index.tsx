@@ -19,7 +19,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Genesisnest Token',
+    title: 'GNToken',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>

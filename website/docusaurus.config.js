@@ -6,11 +6,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'GenesisNest Economy',
+    title: 'GenesisNest',
     tagline: 'for Developer',
     url: 'https://docs.genesisnest.io',
     baseUrl: '/',
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
     favicon: '/img/favicon.ico',
 
