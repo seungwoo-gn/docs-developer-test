@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
+          # cache: yarn
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
@@ -46,7 +46,6 @@ jobs:
 
 # name: Build-Deploy-to-GitHub Pages(gh-pages)
 # on: [push]
-
 # jobs:
 #   deploy:
 #     runs-on: ubuntu-latest
