@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_developer=self.webpackChunkdocs_developer||[]).push([[686],{596:e=>{e.exports=JSON.parse('{"title":"SDK","slug":"/category/sdk","permalink":"/docs/category/sdk","navigation":{"previous":{"title":"Intro","permalink":"/docs/apis/intro"},"next":{"title":"Intro","permalink":"/docs/sdk/intro"}}}')}}]);
