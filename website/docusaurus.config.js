@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'GenesisNest Developer Docs',
-    tagline: 'Developer Site',
+    title: 'GenesisNest Economy',
+    tagline: 'for Developer',
     url: 'https://docs.genesisnest.io',
     baseUrl: '/',
     onBrokenLinks: 'throw',
@@ -72,31 +72,39 @@ const config = {
             links: [{
                     title: 'Docs',
                     items: [{
-                        label: 'Developer',
+                        label: 'Develop Guide',
                         to: '/docs/welcome',
                     }, ],
                 },
                 {
                     title: 'Community',
                     items: [{
-                            label: 'Stack Overflow',
-                            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-                        },
-                        {
                             label: 'Discord',
-                            href: 'https://discordapp.com/invite/docusaurus',
+                            href: 'https://discordapp.com/',
                         },
                         {
                             label: 'Twitter',
-                            href: 'https://twitter.com/docusaurus',
+                            href: 'https://twitter.com/',
+                        },
+                        {
+                            label: 'Medium',
+                            href: 'https://Medium.com/',
+                        },
+                        {
+                            label: 'Youtube',
+                            href: 'https://youtube.com/',
+                        },
+                        {
+                            label: 'Facebook',
+                            href: 'https://Facebook.com/',
                         },
                     ],
                 },
                 {
                     title: 'More',
                     items: [{
-                        label: 'GitHub',
-                        href: 'https://github.com/genesisnest/docs-developer-test',
+                        label: 'GenesisNest',
+                        href: 'https://genesisnest.com',
                     }, ],
                 },
             ],
