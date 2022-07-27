@@ -8,7 +8,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
+          cache: npm
       - uses: actions/checkout@master
       - uses: redkubes/docusaurus-deploy-action@v1.2
         with:
